@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mhumfrey <marvin@42.fr>                    +#+  +:+       +#+         #
+#    By: mhumfrey <mhumfrey@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/11/02 12:47:01 by mhumfrey          #+#    #+#              #
-#    Updated: 2020/11/11 18:06:52 by mhumfrey         ###   ########.fr        #
+#    Updated: 2021/01/16 19:17:27 by mhumfrey         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -50,6 +50,8 @@ SRC = ft_atoi.c \
 	  ft_strlcpy.c \
 	  ft_substr.c \
 	  ft_split.c \
+	  get_next_line.c \
+	  get_next_line_utils.c \
 
 BONUS = ft_lstnew.c \
 		ft_lstadd_front.c \
